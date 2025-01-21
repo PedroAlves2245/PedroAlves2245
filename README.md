@@ -40,12 +40,12 @@ O mundo da programação sempre me fascinou, e este curso tem sido a porta de en
 
 # 🌐 Redes sociais  
 
-📌 Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/pedro-henrique-rodrigues-alves/))  
+📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-rodrigues-alves/))  
 
 ---
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/pedro-henrique-rodrigues-alves/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/pedro-henrique-rodrigues-alves/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
