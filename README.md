@@ -40,7 +40,7 @@ O mundo da programação sempre me fascinou, e este curso tem sido a porta de en
 
 # 🌐 Redes sociais  
 
-📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-rodrigues-alves/))  
+📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-rodrigues-alves/)  
 
 ---
 
